@@ -1,7 +1,1 @@
-{
-  "latest_version_code": 1,
-  "latest_version_name": "v1.0",
-  "changelog": "- Initial Seky Client release\n- Full Plus Plus subscription bypass & unlimited quotas\n- Background OTA update checker active",
-  "download_url": "https://github.com/ItxFilas/mod-updates/releases",
-  "announcement": "Welcome to Seky Client!"
-}
+{"latest_version_code":1744156574,"latest_version_name":"4.57.1","changelog":"- Full Plus-Plus subscription bypass & unlimited quotas\n- Custom app icons\n- ExoPlayer / split-resource crash fixes\n- Modded by @seky_playz","download_url":"https://github.com/ItxFilas/mod-updates/releases/latest/download/BeeperModded.apk","announcement":"Welcome to Seky Client!"}
