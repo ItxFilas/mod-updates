@@ -3,5 +3,7 @@
   "latest_version_name": "4.64.0",
   "changelog": "Seky Client v4.64.0 (Plus-Plus, Unlimited Merged Chats, Custom Icons, OTA)",
   "download_url": "https://github.com/ItxFilas/mod-updates/releases/latest/download/BeeperModded.apk",
-  "announcement": "Seky Client 4.64.0 is now available!"
+  "announcement": "Seky Client 4.64.0 is now available!",
+  "sha256": "4e1f31fae4921d603af2a56db12ee45cdd4a60c2ea1eb5dac07a9feccde5d040",
+  "size_bytes": 116228237
 }
