@@ -1,9 +1,9 @@
 {
-  "latest_version_code": 1744163568,
-  "latest_version_name": "4.64.0.2",
-  "changelog": "Seky Client v4.64.0.2\n- OTA update dialog now appears on cold start (guard fix) and retries on failure\n- Incognito mode stays on/off exactly as you set it\n- Plus-Plus, 999 merged chats, custom icons, OTA",
+  "latest_version_code": 1744163569,
+  "latest_version_name": "4.64.0",
+  "changelog": "Seky Client V4.64.0\n- Incognito mode stays on/off exactly as you set it\n- OTA update check fixed\n- Plus-Plus, 999 merged chats, custom icons, OTA",
   "download_url": "https://github.com/ItxFilas/mod-updates/releases/latest/download/BeeperModded.apk",
-  "announcement": "Seky Client 4.64.0.2 is now available!",
-  "sha256": "7ab33ab4ae6713ee7e229650de7f253d0d507414760e7bdebf58c2fa6393a9e1",
+  "announcement": "Seky Client 4.64.0 is now available!",
+  "sha256": "9cb47f28f4ce1a9fb4b09e194b401d6b1fd633c94d80231758ca1685632c1bb3",
   "size_bytes": 116228237
 }
