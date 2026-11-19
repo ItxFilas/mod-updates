@@ -1,9 +1,9 @@
 {
-  "latest_version_code": 1744163569,
-  "latest_version_name": "4.64.0",
-  "changelog": "Seky Client V4.64.0\n- Incognito mode stays on/off exactly as you set it\n- OTA update check fixed\n- Plus-Plus, 999 merged chats, custom icons, OTA",
+  "latest_version_code": 1744164584,
+  "latest_version_name": "4.65.0",
+  "changelog": "Seky Client v4.65.0\n- Updated to Beeper 4.65.0\n- Plus-Plus, 999 merged chats, custom icons, OTA\n- Re-anchored settings gate, plan badges and exact-alarm checks",
   "download_url": "https://github.com/ItxFilas/mod-updates/releases/latest/download/BeeperModded.apk",
-  "announcement": "Seky Client 4.64.0 is now available!",
-  "sha256": "9cb47f28f4ce1a9fb4b09e194b401d6b1fd633c94d80231758ca1685632c1bb3",
-  "size_bytes": 116228237
+  "announcement": "Seky Client 4.65.0 is now available!",
+  "sha256": "389224a20c9a6ff1ff433ba0cb32256efccb2949a980ffa6e142ff41eb44707a",
+  "size_bytes": 117215373
 }
