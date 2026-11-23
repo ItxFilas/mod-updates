@@ -1,9 +1,9 @@
 {
-  "latest_version_code": 1744164591,
-  "latest_version_name": "4.66.2.1",
-  "changelog": "Seky Client v4.66.2.1: rebased on Beeper 4.66.2; merged chats stay active (dormant limit 999) and hibernated unions wake on launch; launch-time union backfill + preview regeneration; Plus-Plus, unlimited merged chats, custom icons, OTA",
+  "latest_version_code": 1744164592,
+  "latest_version_name": "4.66.2.2",
+  "changelog": "Seky Client v4.66.2.2 hotfix: fixes the Preferences screen crash (disabled the broken plan-badge patch); merged-chat fix unchanged",
   "download_url": "https://github.com/ItxFilas/mod-updates/releases/latest/download/BeeperModded.apk",
-  "announcement": "Seky Client 4.66.2.1 is now available!",
-  "sha256": "fa88e2d5fb4d6490c13555ef7003dbdddd74be6c42efd5b3602d56a5037bbe2a",
+  "announcement": "Seky Client 4.66.2.2 is now available!",
+  "sha256": "bd3ed2b63c95dfcdd175cf6f87c802b90fc9a9b4b08effab00e287a3f29d8d72",
   "size_bytes": 118174083
 }
